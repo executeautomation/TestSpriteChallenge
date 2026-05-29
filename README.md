@@ -1,5 +1,8 @@
 # TestSpriteChallenge
 
+> **For this challenge, make sure to fill all the stages by uploading your results:**
+> [https://forms.gle/QvUmGdwNMy5uzoGa8](https://forms.gle/QvUmGdwNMy5uzoGa8)
+
 A full-stack application with a React frontend and Node.js backend.
 
 ## Getting Started
